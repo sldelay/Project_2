@@ -1,5 +1,5 @@
 {
-  "name": "1-Passport-Example",
+  "name": "project_2",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
     "watch": "nodemon server.js"
   },
   "pre-commit": [
-    "test"
+    "lint"
   ],
   "keywords": [],
   "author": "",

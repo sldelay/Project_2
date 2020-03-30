@@ -11,7 +11,7 @@
     "watch": "nodemon server.js"
   },
   "pre-commit": [
-    "test"
+    "lint"
   ],
   "keywords": [],
   "author": "",
